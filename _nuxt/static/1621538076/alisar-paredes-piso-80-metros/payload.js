@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-piso-80-metros", {data:[{}],fetch:{},mutations:[]});

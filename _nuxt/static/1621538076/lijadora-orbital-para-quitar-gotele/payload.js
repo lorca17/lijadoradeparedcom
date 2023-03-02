@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-orbital-para-quitar-gotele", {data:[{}],fetch:{},mutations:[]});

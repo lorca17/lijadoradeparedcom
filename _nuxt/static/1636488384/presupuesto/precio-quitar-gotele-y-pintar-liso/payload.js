@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-quitar-gotele-y-pintar-liso", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/axton-plaste-para-alisar", {data:[{}],fetch:{},mutations:[]});

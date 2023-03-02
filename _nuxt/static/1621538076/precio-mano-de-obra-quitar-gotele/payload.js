@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/precio-mano-de-obra-quitar-gotele", {data:[{}],fetch:{},mutations:[]});

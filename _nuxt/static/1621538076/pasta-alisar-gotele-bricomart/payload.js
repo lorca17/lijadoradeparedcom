@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pasta-alisar-gotele-bricomart", {data:[{}],fetch:{},mutations:[]});

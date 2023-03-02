@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pladur/placas-de-pladur-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillar-pared-con-humedad", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-de-techos-y-paredes", {data:[{}],fetch:{},mutations:[]});

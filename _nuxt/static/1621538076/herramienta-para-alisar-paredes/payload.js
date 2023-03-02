@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/herramienta-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

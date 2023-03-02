@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-malaga", {data:[{}],fetch:{},mutations:[]});

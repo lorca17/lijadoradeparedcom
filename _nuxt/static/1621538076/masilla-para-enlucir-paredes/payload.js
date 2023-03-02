@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-para-enlucir-paredes", {data:[{}],fetch:{},mutations:[]});

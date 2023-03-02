@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/maquinas-para-lijar-paredes", {data:[{}],fetch:{},mutations:[]});

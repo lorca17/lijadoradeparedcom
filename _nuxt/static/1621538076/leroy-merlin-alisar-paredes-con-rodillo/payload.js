@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/leroy-merlin-alisar-paredes-con-rodillo", {data:[{}],fetch:{},mutations:[]});

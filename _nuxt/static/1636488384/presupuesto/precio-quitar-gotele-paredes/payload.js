@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-quitar-gotele-paredes", {data:[{}],fetch:{},mutations:[]});

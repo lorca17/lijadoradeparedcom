@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/como-quitar-el-gotele-y-dejar-la-pared-lisa", {data:[{}],fetch:{},mutations:[]});

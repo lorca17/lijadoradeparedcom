@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/alisar-gotele-leroy-merlin", {data:[{}],fetch:{},mutations:[]});

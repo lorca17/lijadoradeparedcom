@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alquiler-lijadoras-de-pared-madrid", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras/marcas", {data:[{}],fetch:{},mutations:[]});

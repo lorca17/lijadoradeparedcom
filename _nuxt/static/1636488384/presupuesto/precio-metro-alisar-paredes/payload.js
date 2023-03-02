@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-metro-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

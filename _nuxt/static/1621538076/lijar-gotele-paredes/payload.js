@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijar-gotele-paredes", {data:[{}],fetch:{},mutations:[]});

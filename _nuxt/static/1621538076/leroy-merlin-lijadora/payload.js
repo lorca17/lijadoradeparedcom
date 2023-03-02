@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/leroy-merlin-lijadora", {data:[{}],fetch:{},mutations:[]});

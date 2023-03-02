@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cuanto-cuesta-quitar-gotele-y-lucir-paredes", {data:[{}],fetch:{},mutations:[]});

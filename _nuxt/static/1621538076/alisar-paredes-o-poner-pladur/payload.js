@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-o-poner-pladur", {data:[{}],fetch:{},mutations:[]});

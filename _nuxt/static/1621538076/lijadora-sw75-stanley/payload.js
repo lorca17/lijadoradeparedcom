@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-sw75-stanley", {data:[{}],fetch:{},mutations:[]});

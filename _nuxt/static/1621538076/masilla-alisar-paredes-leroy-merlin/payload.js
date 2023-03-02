@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-alisar-paredes-leroy-merlin", {data:[{}],fetch:{},mutations:[]});

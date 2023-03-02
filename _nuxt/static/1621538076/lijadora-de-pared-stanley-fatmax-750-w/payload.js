@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-stanley-fatmax-750-w", {data:[{}],fetch:{},mutations:[]});

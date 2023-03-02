@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras/lijadoras-en-amazon", {data:[{}],fetch:{},mutations:[]});

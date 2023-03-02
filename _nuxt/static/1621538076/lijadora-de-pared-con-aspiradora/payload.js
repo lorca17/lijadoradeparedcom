@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-con-aspiradora", {data:[{}],fetch:{},mutations:[]});

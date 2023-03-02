@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cuanto-vale-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

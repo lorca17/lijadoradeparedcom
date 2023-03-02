@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pastas/para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

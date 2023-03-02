@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/llana-para-emplastecer", {data:[{}],fetch:{},mutations:[]});

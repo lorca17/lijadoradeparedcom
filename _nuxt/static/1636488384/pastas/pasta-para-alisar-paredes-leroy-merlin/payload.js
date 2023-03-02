@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pastas/pasta-para-alisar-paredes-leroy-merlin", {data:[{}],fetch:{},mutations:[]});

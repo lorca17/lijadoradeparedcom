@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alquiler-de-lijadora-para-paredes", {data:[{}],fetch:{},mutations:[]});

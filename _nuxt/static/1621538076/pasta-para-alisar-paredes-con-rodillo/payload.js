@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pasta-para-alisar-paredes-con-rodillo", {data:[{}],fetch:{},mutations:[]});

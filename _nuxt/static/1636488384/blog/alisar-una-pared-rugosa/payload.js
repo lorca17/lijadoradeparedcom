@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/alisar-una-pared-rugosa", {data:[{}],fetch:{},mutations:[]});

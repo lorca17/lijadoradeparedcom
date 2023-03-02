@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-orbital-paredes", {data:[{}],fetch:{},mutations:[]});

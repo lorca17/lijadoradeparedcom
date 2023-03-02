@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-alisar-paredes-piso-90m2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-emplastecer", {data:[{}],fetch:{},mutations:[]});

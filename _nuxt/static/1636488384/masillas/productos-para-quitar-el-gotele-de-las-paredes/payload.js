@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillas/productos-para-quitar-el-gotele-de-las-paredes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-de-azulejos", {data:[{}],fetch:{},mutations:[]});

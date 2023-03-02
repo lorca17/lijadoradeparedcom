@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-pared-stayer-opiniones", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-pared-con-cemento", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/alisar-paredes-y-pintar", {data:[{}],fetch:{},mutations:[]});

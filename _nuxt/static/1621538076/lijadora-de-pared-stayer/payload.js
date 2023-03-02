@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-stayer", {data:[{}],fetch:{},mutations:[]});

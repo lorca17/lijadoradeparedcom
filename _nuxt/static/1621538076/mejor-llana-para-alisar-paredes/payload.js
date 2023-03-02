@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mejor-llana-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

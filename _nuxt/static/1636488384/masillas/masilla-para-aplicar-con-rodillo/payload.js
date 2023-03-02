@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillas/masilla-para-aplicar-con-rodillo", {data:[{}],fetch:{},mutations:[]});

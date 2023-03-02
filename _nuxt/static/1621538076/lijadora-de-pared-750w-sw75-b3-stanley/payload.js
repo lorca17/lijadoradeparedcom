@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-750w-sw75-b3-stanley", {data:[{}],fetch:{},mutations:[]});

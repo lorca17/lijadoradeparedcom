@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-para-alisar-paredes-de-gotele", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-redonda-bosch", {data:[{}],fetch:{},mutations:[]});

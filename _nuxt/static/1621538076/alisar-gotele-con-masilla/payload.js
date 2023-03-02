@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-gotele-con-masilla", {data:[{}],fetch:{},mutations:[]});

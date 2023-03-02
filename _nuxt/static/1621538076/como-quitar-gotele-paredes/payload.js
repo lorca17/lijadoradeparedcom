@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-quitar-gotele-paredes", {data:[{}],fetch:{},mutations:[]});

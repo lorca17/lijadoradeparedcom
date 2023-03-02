@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bosch/bosch-makita", {data:[{}],fetch:{},mutations:[]});

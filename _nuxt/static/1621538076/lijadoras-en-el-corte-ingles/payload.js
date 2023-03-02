@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-en-el-corte-ingles", {data:[{}],fetch:{},mutations:[]});

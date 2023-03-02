@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillas/producto-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

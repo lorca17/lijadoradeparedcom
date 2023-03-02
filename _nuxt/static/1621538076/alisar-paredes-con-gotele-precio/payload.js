@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-con-gotele-precio", {data:[{}],fetch:{},mutations:[]});

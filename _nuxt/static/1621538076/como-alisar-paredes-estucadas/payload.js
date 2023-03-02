@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-alisar-paredes-estucadas", {data:[{}],fetch:{},mutations:[]});

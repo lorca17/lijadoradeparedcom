@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/precio-mano-de-obra-alicatado-pared", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alquiler-maquina-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kit-kitomasgota", {data:[{}],fetch:{},mutations:[]});

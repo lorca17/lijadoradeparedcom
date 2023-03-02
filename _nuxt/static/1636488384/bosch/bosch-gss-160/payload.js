@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bosch/bosch-gss-160", {data:[{}],fetch:{},mutations:[]});

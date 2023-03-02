@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/massa-para-alisar-paredes-pintadas", {data:[{}],fetch:{},mutations:[]});

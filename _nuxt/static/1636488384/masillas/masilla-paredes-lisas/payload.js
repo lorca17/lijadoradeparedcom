@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillas/masilla-paredes-lisas", {data:[{}],fetch:{},mutations:[]});

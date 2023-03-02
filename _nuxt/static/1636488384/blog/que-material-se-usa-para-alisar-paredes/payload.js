@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/que-material-se-usa-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

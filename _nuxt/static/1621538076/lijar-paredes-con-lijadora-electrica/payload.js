@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijar-paredes-con-lijadora-electrica", {data:[{}],fetch:{},mutations:[]});

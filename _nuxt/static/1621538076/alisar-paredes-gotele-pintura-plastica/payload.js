@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-gotele-pintura-plastica", {data:[{}],fetch:{},mutations:[]});

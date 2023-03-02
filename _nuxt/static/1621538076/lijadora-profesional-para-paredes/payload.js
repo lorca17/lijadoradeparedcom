@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-profesional-para-paredes", {data:[{}],fetch:{},mutations:[]});

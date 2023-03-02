@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/la-mejor-manera-de-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

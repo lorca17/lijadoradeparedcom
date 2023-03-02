@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/precios-alisar-y-pintar-paredes", {data:[{}],fetch:{},mutations:[]});

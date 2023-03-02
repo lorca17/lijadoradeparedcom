@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-en-mal-estado", {data:[{}],fetch:{},mutations:[]});

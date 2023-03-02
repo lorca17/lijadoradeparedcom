@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/emplaste-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

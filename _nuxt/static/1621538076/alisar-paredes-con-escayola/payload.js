@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-con-escayola", {data:[{}],fetch:{},mutations:[]});

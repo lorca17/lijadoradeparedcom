@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bricodepot-lijadoras", {data:[{}],fetch:{},mutations:[]});

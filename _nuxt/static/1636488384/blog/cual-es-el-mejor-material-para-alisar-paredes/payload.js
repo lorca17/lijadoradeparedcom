@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/cual-es-el-mejor-material-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-de-pintura", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/alisar-paredes-con-placas-de-pladur", {data:[{}],fetch:{},mutations:[]});

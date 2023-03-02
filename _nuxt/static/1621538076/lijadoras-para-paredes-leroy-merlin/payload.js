@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-para-paredes-leroy-merlin", {data:[{}],fetch:{},mutations:[]});

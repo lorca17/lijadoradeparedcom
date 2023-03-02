@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/que-cuesta-alisar-paredes-y-techos", {data:[{}],fetch:{},mutations:[]});

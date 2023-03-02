@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/como-alisar-paredes-con-gotele-con-pintura-plastica", {data:[{}],fetch:{},mutations:[]});

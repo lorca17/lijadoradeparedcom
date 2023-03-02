@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/precio-m2-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

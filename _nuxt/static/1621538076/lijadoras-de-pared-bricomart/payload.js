@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-de-pared-bricomart", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-de-mano-para-paredes", {data:[{}],fetch:{},mutations:[]});

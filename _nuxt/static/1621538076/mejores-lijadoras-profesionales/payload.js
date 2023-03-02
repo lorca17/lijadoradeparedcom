@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mejores-lijadoras-profesionales", {data:[{}],fetch:{},mutations:[]});

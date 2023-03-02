@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-quitar-gotele-pared", {data:[{}],fetch:{},mutations:[]});

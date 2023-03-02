@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pastas/pasta-para-emplastecer-paredes", {data:[{}],fetch:{},mutations:[]});

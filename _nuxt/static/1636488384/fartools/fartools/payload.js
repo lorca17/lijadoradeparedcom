@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fartools/fartools", {data:[{}],fetch:{},mutations:[]});

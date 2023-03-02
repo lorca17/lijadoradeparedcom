@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-orbital-leroy", {data:[{}],fetch:{},mutations:[]});

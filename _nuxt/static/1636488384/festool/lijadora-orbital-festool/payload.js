@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/festool/lijadora-orbital-festool", {data:[{}],fetch:{},mutations:[]});

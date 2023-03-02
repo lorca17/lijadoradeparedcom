@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fartools/lijadora-fartools", {data:[{}],fetch:{},mutations:[]});

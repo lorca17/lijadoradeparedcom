@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-alisar-paredes-con-rodillo", {data:[{}],fetch:{},mutations:[]});

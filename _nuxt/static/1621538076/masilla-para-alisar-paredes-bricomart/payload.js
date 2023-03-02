@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-para-alisar-paredes-bricomart", {data:[{}],fetch:{},mutations:[]});

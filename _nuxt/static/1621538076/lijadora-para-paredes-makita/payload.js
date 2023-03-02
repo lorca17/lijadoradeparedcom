@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-para-paredes-makita", {data:[{}],fetch:{},mutations:[]});

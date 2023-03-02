@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-paredes-bricomart", {data:[{}],fetch:{},mutations:[]});

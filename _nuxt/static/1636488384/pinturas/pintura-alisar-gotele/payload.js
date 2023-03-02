@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pinturas/pintura-alisar-gotele", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-pared-aguaplast", {data:[{}],fetch:{},mutations:[]});

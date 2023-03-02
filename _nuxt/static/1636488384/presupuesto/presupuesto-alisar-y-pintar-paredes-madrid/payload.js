@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/presupuesto-alisar-y-pintar-paredes-madrid", {data:[{}],fetch:{},mutations:[]});

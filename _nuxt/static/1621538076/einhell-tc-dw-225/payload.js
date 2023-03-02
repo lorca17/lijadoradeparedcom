@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/einhell-tc-dw-225", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-alisar-las-paredes-de-gotele", {data:[{}],fetch:{},mutations:[]});

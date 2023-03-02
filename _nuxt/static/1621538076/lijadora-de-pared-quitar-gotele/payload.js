@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-quitar-gotele", {data:[{}],fetch:{},mutations:[]});

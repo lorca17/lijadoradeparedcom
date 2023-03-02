@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/makita/lijadora-pared-makita", {data:[{}],fetch:{},mutations:[]});

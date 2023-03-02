@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

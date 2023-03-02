@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/materiales-para-alisar-paredes-interiores", {data:[{}],fetch:{},mutations:[]});

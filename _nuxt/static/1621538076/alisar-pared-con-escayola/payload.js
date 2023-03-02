@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-pared-con-escayola", {data:[{}],fetch:{},mutations:[]});

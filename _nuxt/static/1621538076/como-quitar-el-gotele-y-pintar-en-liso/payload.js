@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-quitar-el-gotele-y-pintar-en-liso", {data:[{}],fetch:{},mutations:[]});

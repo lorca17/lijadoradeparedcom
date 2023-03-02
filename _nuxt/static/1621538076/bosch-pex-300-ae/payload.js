@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bosch-pex-300-ae", {data:[{}],fetch:{},mutations:[]});

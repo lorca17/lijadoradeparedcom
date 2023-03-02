@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisado-de-paredes-generador-de-precios", {data:[{}],fetch:{},mutations:[]});

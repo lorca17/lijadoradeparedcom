@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijar-gotele-con-lijadora", {data:[{}],fetch:{},mutations:[]});

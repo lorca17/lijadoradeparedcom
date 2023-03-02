@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-alisar-paredes-despues-de-quitar-gotele", {data:[{}],fetch:{},mutations:[]});

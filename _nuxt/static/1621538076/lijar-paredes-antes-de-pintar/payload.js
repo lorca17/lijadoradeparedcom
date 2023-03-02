@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijar-paredes-antes-de-pintar", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/alisar-pladur", {data:[{}],fetch:{},mutations:[]});

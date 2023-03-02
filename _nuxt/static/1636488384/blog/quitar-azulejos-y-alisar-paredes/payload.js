@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/quitar-azulejos-y-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

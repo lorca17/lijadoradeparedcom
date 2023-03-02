@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-pladur", {data:[{}],fetch:{},mutations:[]});

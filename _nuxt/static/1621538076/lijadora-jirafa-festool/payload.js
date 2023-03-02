@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-jirafa-festool", {data:[{}],fetch:{},mutations:[]});

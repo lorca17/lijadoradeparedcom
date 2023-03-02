@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masillas/material-para-alisar-paredes-exteriores", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-electricas-bricomart", {data:[{}],fetch:{},mutations:[]});

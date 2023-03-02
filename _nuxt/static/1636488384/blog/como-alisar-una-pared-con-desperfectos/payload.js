@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/como-alisar-una-pared-con-desperfectos", {data:[{}],fetch:{},mutations:[]});

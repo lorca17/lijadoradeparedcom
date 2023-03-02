@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/como-alisar-una-pared-con-gotele", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alquiler-lijadoras-de-madera", {data:[{}],fetch:{},mutations:[]});

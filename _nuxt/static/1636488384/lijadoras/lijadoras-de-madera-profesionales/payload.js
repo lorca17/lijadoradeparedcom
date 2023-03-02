@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras/lijadoras-de-madera-profesionales", {data:[{}],fetch:{},mutations:[]});

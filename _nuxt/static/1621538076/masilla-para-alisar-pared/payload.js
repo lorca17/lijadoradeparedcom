@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-para-alisar-pared", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-alisar-paredes-zaragoza", {data:[{}],fetch:{},mutations:[]});

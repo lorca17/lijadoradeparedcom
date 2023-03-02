@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras/maquina-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

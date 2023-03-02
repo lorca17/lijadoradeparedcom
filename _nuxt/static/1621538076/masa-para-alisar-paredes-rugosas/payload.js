@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masa-para-alisar-paredes-rugosas", {data:[{}],fetch:{},mutations:[]});

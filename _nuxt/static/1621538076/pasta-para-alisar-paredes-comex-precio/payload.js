@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pasta-para-alisar-paredes-comex-precio", {data:[{}],fetch:{},mutations:[]});

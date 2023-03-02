@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/festool/lijadora-de-pared-festool", {data:[{}],fetch:{},mutations:[]});

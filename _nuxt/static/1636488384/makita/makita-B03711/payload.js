@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/makita/makita-B03711", {data:[{}],fetch:{},mutations:[]});

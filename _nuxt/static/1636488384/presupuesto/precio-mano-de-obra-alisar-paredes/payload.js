@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/presupuesto/precio-mano-de-obra-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

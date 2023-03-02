@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-electrica-festool", {data:[{}],fetch:{},mutations:[]});

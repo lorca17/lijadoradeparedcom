@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-de-madera-segunda-mano", {data:[{}],fetch:{},mutations:[]});

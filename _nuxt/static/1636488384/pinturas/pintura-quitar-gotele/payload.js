@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pinturas/pintura-quitar-gotele", {data:[{}],fetch:{},mutations:[]});

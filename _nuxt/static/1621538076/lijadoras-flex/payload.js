@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-flex", {data:[{}],fetch:{},mutations:[]});

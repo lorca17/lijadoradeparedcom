@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/maquinas-lijadoras-de-pared", {data:[{}],fetch:{},mutations:[]});

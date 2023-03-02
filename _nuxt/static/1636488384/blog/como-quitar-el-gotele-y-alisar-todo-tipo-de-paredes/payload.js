@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/como-quitar-el-gotele-y-alisar-todo-tipo-de-paredes", {data:[{}],fetch:{},mutations:[]});

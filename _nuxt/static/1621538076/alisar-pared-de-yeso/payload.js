@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-pared-de-yeso", {data:[{}],fetch:{},mutations:[]});

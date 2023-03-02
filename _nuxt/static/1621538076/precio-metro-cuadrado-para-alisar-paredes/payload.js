@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/precio-metro-cuadrado-para-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

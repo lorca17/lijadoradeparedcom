@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cuanto-cuesta-alisar-paredes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras-para-paredes-de-yeso", {data:[{}],fetch:{},mutations:[]});

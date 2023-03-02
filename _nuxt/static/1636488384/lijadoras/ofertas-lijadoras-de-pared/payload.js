@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadoras/ofertas-lijadoras-de-pared", {data:[{}],fetch:{},mutations:[]});

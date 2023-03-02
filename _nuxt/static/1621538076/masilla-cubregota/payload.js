@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/masilla-cubregota", {data:[{}],fetch:{},mutations:[]});

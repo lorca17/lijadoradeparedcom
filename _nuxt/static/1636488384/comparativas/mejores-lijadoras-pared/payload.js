@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/comparativas/mejores-lijadoras-pared", {data:[{}],fetch:{},mutations:[]});

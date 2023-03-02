@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pintura-quitar-gotele-leroy-merlin", {data:[{}],fetch:{},mutations:[]});

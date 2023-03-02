@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lijadora-de-pared-y-techo-stanley-sw75-en-peru", {data:[{}],fetch:{},mutations:[]});

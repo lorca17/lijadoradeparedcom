@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alisar-una-pared", {data:[{}],fetch:{},mutations:[]});
